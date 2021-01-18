@@ -1,0 +1,1 @@
+alert('JS code in app.js using src to link to app.js to invoke the code...');
